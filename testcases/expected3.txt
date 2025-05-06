@@ -237,12 +237,12 @@ Jangkauan: 410.0 km
 ------------------------
 
 Mobil #21
-ID: VIP0001
-Nama Mobil KBT: Tesla X
-Jenis: YAH TESLA
-Daya Listrik: 200.0 kW
+ID: OFF12
+Nama Mobil KBT: Pajero
+Jenis: Sport
+Daya Listrik: 5000.0 kW
 Kapasitas Baterai: 4000 kWh
-Kapasitas Penumpang: 1 orang
+Kapasitas Penumpang: 5 orang
 Jangkauan: 10.0 km
 ------------------------
 

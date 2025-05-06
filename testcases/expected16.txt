@@ -237,13 +237,67 @@ Jangkauan: 410.0 km
 ------------------------
 
 Mobil #21
-ID: VIP0001
-Nama Mobil KBT: Tesla X
-Jenis: YAH TESLA
-Daya Listrik: 200.0 kW
-Kapasitas Baterai: 4000 kWh
-Kapasitas Penumpang: 1 orang
-Jangkauan: 10.0 km
+ID: KRS778
+Nama Mobil KBT: Veloz
+Jenis: Toyota
+Daya Listrik: 90000.0 kW
+Kapasitas Baterai: 899889 kWh
+Kapasitas Penumpang: 10 orang
+Jangkauan: 900.0 km
+------------------------
+
+Tekan Enter untuk melanjutkan...
+
+=== APLIKASI MANAJEMEN MOBIL KBT ===
+1. Tampilkan Semua Mobil KBT
+2. Tambah Mobil KBT
+3. Tampilkan Detail Mobil KBT
+4. Update Data Mobil KBT
+5. Hapus Mobil KBT
+6. Cari Mobil Berdasarkan Nama
+7. Cari Mobil Berdasarkan Kapasitas Penumpang
+8. Urutkan Mobil Berdasarkan Daya Listrik
+9. Urutkan Mobil Berdasarkan Kapasitas Baterai
+10. Tampilkan Daftar Barang
+11. Tambah Barang
+0. Keluar
+========================
+Pilih menu: 
+=== DAFTAR BARANG ===
+
+Barang #1
+ID: B001
+Nama: Baterai Lithium-ion
+Jenis: Komponen
+Harga: Rp.5000000.0
+------------------------
+
+Barang #2
+ID: B002
+Nama: Motor Listrik 150kW
+Jenis: Penggerak
+Harga: Rp.2.0E7
+------------------------
+
+Barang #3
+ID: B003
+Nama: Converter DC/DC
+Jenis: Elektronik
+Harga: Rp.3500000.0
+------------------------
+
+Barang #4
+ID: B004
+Nama: Inverter AC
+Jenis: Elektronik
+Harga: Rp.7500000.0
+------------------------
+
+Barang #5
+ID: B005
+Nama: Charger Onboard
+Jenis: Pengisian
+Harga: Rp.4500000.0
 ------------------------
 
 Tekan Enter untuk melanjutkan...
